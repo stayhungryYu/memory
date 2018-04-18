@@ -1,2 +1,2 @@
 # memory
-dumpMem
+android 内存分析
